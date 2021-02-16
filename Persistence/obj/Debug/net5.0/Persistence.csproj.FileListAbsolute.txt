@@ -1,0 +1,15 @@
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/Debug/net5.0/Persistence.pdb

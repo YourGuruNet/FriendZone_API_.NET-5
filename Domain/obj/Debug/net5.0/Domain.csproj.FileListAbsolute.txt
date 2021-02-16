@@ -1,0 +1,12 @@
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/bin/Debug/net5.0/Domain.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/Debug/net5.0/Domain.pdb
