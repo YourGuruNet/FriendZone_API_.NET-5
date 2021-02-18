@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j+rgqkBSRZiquOKENGsZIb4NNydTU/9cpfWU9IHKvlm2leHTeIBzw8igssNyIxjRRGvocUs1qPxCgESezbxTwA==",
+  "dgSpecHash": "PdeFbOMK2OZsd5xNo3kDsrSvrr4jOF3HDa7yJxJfbzjvYZSvnldHheLze5hbAal7yVxtUphFKQxQSuV8nuXBbw==",
   "success": true,
   "projectFilePath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/arvisiljins/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/arvisiljins/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/microsoft.data.sqlite.core/5.0.3/microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/microsoft.entityframeworkcore/5.0.3/microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
