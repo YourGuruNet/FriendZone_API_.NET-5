@@ -15,12 +15,12 @@ namespace Application.Activities
         }
 
         //Validation
-        public class CommandValidator : AbstractValidator<Activity>
+        public class CommandValidator : AbstractValidator<Command>
         {
-            //Check activity title, trow error if title is empty
+            //Check activity trow error if any field is empty
             public CommandValidator()
             {
-                RuleFor(activity => activity.Title).NotEmpty();
+                RuleFor(activity => activity.Activity).SetValidator(new ActivityValidator());
             }
         }
 
