@@ -62,3 +62,6 @@
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/AutoMapper.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/FluentValidation.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll

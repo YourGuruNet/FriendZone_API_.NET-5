@@ -1,6 +1,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Domain;
+using FluentValidation;
 using MediatR;
 using Persistence;
 
@@ -11,6 +12,16 @@ namespace Application.Activities
         public class Command : IRequest
         {
             public Activity Activity { get; set; }
+        }
+
+        //Validation
+        public class CommandValidator : AbstractValidator<Activity>
+        {
+            //Check activity title, trow error if title is empty
+            public CommandValidator()
+            {
+                RuleFor(activity => activity.Title).NotEmpty();
+            }
         }
 
         public class Handler : IRequestHandler<Command>

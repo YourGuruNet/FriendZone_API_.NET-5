@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zIkRBciDcG9PHi4N9dEDZNm3c2F9jnAa5NmgpjEkGCSZuwbQsP8k4gadZ5JrTmRDgUUGNgAHp6RvsHgVao8h2w==",
+  "dgSpecHash": "/8gXMmI6VYlkTw4z0clThbXpmnwzA7IrfFMADIawIZ0FHQIZngK6miLyJVPmP0mKuuauecAuX1OfoeC4XUquFg==",
   "success": true,
   "projectFilePath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/arvisiljins/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/arvisiljins/.nuget/packages/fluentvalidation/9.5.1/fluentvalidation.9.5.1.nupkg.sha512",
+    "/Users/arvisiljins/.nuget/packages/fluentvalidation.aspnetcore/9.5.1/fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "/Users/arvisiljins/.nuget/packages/fluentvalidation.dependencyinjectionextensions/9.5.1/fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/arvisiljins/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
