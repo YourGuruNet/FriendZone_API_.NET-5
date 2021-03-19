@@ -70,3 +70,10 @@
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
