@@ -1,5 +1,7 @@
-﻿using System.Threading.Tasks;
+﻿using System.Security.Claims;
+using System.Threading.Tasks;
 using API.DTOs;
+using API.Wrappers;
 using API.Services;
 using Domain;
 using Microsoft.AspNetCore.Authorization;
@@ -40,17 +42,11 @@ namespace API.Controllers
 
             if (result.Succeeded)
             {
-                return new UserDto
-                {
-                    DisplayName = user.DisplayName,
-                    Image = null,
-                    Token = _tokenService.CreateToken(user),
-                    UserName = user.UserName
-
-                };
+                return CreateUserObjectWrapper.CreateUserObject(user, _tokenService);
             }
             return Unauthorized();
         }
+
 
         [HttpPost("register")]
         public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
@@ -75,17 +71,21 @@ namespace API.Controllers
 
             if (result.Succeeded)
             {
-                return new UserDto
-                {
-                    DisplayName = user.DisplayName,
-                    Image = null,
-                    Token = _tokenService.CreateToken(user),
-                    UserName = user.UserName
-
-                };
+               return CreateUserObjectWrapper.CreateUserObject(user, _tokenService);
             }
 
             return BadRequest("We have a problem to register new user");
         }
+
+        [Authorize]
+        [HttpGet]
+        public async Task<ActionResult<UserDto>> GetCurrentUser()
+        {
+            var user = await _userManager.FindByEmailAsync(User.FindFirstValue(ClaimTypes.Email));
+
+            return CreateUserObjectWrapper.CreateUserObject(user, _tokenService);
+        }
+
+        
     }
 }
