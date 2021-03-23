@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace API.Controllers
 {
 
@@ -53,11 +54,13 @@ namespace API.Controllers
         {
             if( await _userManager.Users.AnyAsync(item => item.Email == registerDto.Email))
             {
-                return BadRequest("Email is already in use");
+                ModelState.AddModelError("email","Email is already in use");
+                return ValidationProblem();
             }
             if (await _userManager.Users.AnyAsync(item => item.UserName == registerDto.UserName))
             {
-                return BadRequest("User Name is already in use");
+                ModelState.AddModelError("userName", "User Name is already in use");
+                return ValidationProblem();
             }
 
             var user = new AppUser

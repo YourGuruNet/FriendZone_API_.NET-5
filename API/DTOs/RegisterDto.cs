@@ -15,7 +15,7 @@ namespace API.DTOs
         [Required]
         
         [RegularExpression("(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{4,8}$",
-         ErrorMessage = "One of the characters needs to be number," +
+         ErrorMessage = "Password most have one number," +
          "one lowercase, and one uppercase character, and from 4-8 total long.")]
         public string Password { get; set; }
 
