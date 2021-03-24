@@ -14,7 +14,7 @@
         "outputPath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/arvisiljins/.config/NuGet/NuGet.Config"
+          "/Users/arvisiljins/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -87,7 +87,7 @@
         "outputPath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/arvisiljins/.config/NuGet/NuGet.Config"
+          "/Users/arvisiljins/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -145,7 +145,7 @@
         "outputPath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/arvisiljins/.config/NuGet/NuGet.Config"
+          "/Users/arvisiljins/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
