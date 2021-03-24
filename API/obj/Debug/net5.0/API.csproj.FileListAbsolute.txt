@@ -77,3 +77,5 @@
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Infrastructure.pdb
