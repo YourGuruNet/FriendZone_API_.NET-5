@@ -1483,7 +1483,7 @@
       "outputPath": "/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/arvisiljins/.nuget/NuGet/NuGet.Config"
+        "/Users/arvisiljins/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
