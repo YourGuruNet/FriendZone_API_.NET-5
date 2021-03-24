@@ -1,6 +1,7 @@
 using System.Threading.Tasks;
 using Application.Activities;
 using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -31,6 +32,7 @@ namespace API.Controllers
         }
 
         // Edit
+        [Authorize("IsActivityHoust")]
         [HttpPut("{id}")]
         public async Task<IActionResult> EditActivity(string id, Activity activity)
         {
@@ -39,6 +41,7 @@ namespace API.Controllers
         }
 
         // Delete
+        [Authorize("IsActivityHoust")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteActivity(string id)
         {
