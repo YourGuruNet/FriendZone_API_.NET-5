@@ -79,3 +79,6 @@
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Infrastructure.dll
 /Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Microsoft.Extensions.WebEncoders.dll
+/Users/arvisiljins/Desktop/Projekti/FriendZone/FriendZone_API_.NET/API/bin/Debug/net5.0/Newtonsoft.Json.dll
