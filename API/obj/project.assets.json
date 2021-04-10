@@ -789,6 +789,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "CloudinaryDotNet": "1.15.1",
           "Domain": "1.0.0",
           "FluentValidation.AspNetCore": "9.5.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
@@ -805,6 +806,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "CloudinaryDotNet": "1.15.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.4"
         },
         "compile": {
@@ -818,7 +820,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Application": "1.0.0"
+          "Application": "1.0.0",
+          "CloudinaryDotNet": "1.15.1"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -831,6 +834,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "CloudinaryDotNet": "1.15.1",
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.3"
         },
